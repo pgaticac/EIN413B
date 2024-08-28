@@ -5,10 +5,10 @@
 <table>
     <tr>
         <td>&nbsp;</td>
-        <td>LUNES</td>
-        <td>MARTES</td>
-        <td>MIERCOLES</td>
-        <td>JUEVES</td>
+        <td>LUN</td>
+        <td>MAR</td>
+        <td>MIE</td>
+        <td>JUE</td>
         <td>Tema</td>
         <td>Control</td>
         <td>SMOJ</td>
@@ -84,7 +84,7 @@
         <td>7</td>
         <td>16-09</td>
         <td>17-09</td>
-        <td>18-09-2024</td>
+        <td>18-09</td>
         <td></td>
         <td>Suspensión de Fiestas Patrias</td>
         <td></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td>8</td>
-        <td>23-09-2024</td>
-        <td>24-09-2024</td>
-        <td>25-09-2024</td>
+        <td>23-09</td>
+        <td>24-09</td>
+        <td>25-09</td>
         <td></td>
         <td>Preparación Certamen 1</td>
         <td></td>
@@ -104,10 +104,10 @@
     </tr>
     <tr>
         <td>9</td>
-        <td>30-09-2024</td>
-        <td>01-10-2024</td>
-        <td>02-10-2024</td>
-        <td>03-10-2024</td>
+        <td>30-09</td>
+        <td>01-10</td>
+        <td>02-10</td>
+        <td>03-10</td>
         <td>Certamen 1 :  Jueves 03/10 17:30 hrs.</td>
         <td></td>
         <td></td>
@@ -115,9 +115,9 @@
     </tr>
     <tr>
         <td>10</td>
-        <td>07-10-2024</td>
-        <td>08-10-2024</td>
-        <td>09-10-2024</td>
+        <td>07-10</td>
+        <td>08-10</td>
+        <td>09-10</td>
         <td></td>
         <td>UVA 7: Listas</td>
         <td></td>
@@ -126,9 +126,9 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>14-10-2024</td>
-        <td>15-10-2024</td>
-        <td>16-10-2024</td>
+        <td>14-10</td>
+        <td>15-10</td>
+        <td>16-10</td>
         <td></td>
         <td>UVA 7: Listas</td>
         <td>C5</td>
@@ -137,9 +137,9 @@
     </tr>
     <tr>
         <td>12</td>
-        <td>21-10-2024</td>
-        <td>22-10-2024</td>
-        <td>23-10-2024</td>
+        <td>21-10</td>
+        <td>22-10</td>
+        <td>23-10</td>
         <td></td>
         <td>UVA 8: Diccionarios</td>
         <td>C6</td>
@@ -148,9 +148,9 @@
     </tr>
     <tr>
         <td>13</td>
-        <td>28-10-2024</td>
-        <td>29-10-2024</td>
-        <td>30-10-2024</td>
+        <td>28-10</td>
+        <td>29-10</td>
+        <td>30-10</td>
         <td></td>
         <td>UVA9: Procesamiento de Texto y Archivos</td>
         <td></td>
@@ -159,9 +159,9 @@
     </tr>
     <tr>
         <td>14</td>
-        <td>04-11-2024</td>
-        <td>05-11-2024</td>
-        <td>06-11-2024</td>
+        <td>04-11</td>
+        <td>05-11</td>
+        <td>06-11</td>
         <td></td>
         <td>UVA9: Procesamiento de Texto y Archivos</td>
         <td>C7</td>
@@ -170,10 +170,10 @@
     </tr>
     <tr>
         <td>15</td>
-        <td>11-11-2024</td>
-        <td>12-11-2024</td>
-        <td>13-11-2024</td>
-        <td>14-11-2024</td>
+        <td>11-11</td>
+        <td>12-11</td>
+        <td>13-11</td>
+        <td>14-11</td>
         <td>Certamen 2 :  Jueves 14/10 17:30 hrs.</td>
         <td></td>
         <td></td>
@@ -181,10 +181,10 @@
     </tr>
     <tr>
         <td>16</td>
-        <td>18-11-2024</td>
-        <td>19-11-2024</td>
-        <td>20-11-2024</td>
-        <td>21-11-2024</td>
+        <td>18-11</td>
+        <td>19-11</td>
+        <td>20-11</td>
+        <td>21-11</td>
         <td>No hay mas clases ni ayudantías</td>
         <td></td>
         <td></td>
@@ -192,10 +192,10 @@
     </tr>
     <tr>
         <td>17</td>
-        <td>25-11-2024</td>
-        <td>26-11-2024</td>
-        <td>27-11-2024</td>
-        <td>28-11-2024</td>
+        <td>25-11</td>
+        <td>26-11</td>
+        <td>27-11</td>
+        <td>28-11</td>
         <td>Certamen Recuperativo :  martes 26/11 17:30 hrs.</td>
         <td></td>
         <td></td>
@@ -203,10 +203,10 @@
     </tr>
     <tr>
         <td>18</td>
-        <td>02-12-2024</td>
-        <td>03-12-2024</td>
-        <td>04-12-2024</td>
-        <td>05-12-2024</td>
+        <td>02-12</td>
+        <td>03-12</td>
+        <td>04-12</td>
+        <td>05-12</td>
         <td></td>
         <td></td>
         <td></td>
