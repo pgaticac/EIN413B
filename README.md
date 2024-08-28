@@ -47,8 +47,8 @@
         <td></td>
         <td></td>
     </tr>
-    <tr style="background-color:green">
-        <td>4</td>
+    <tr>
+        <td>▶️ 4</td>
         <td>26-08</td>
         <td>27-08</td>
         <td>28-08</td>
