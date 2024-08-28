@@ -5,10 +5,10 @@
 <table>
     <tr>
         <td>&nbsp;</td>
-        <td>LUN</td>
-        <td>MAR</td>
-        <td>MIE</td>
-        <td>JUE</td>
+        <td>LUNES</td>
+        <td>MARTES</td>
+        <td>MIERCOLES</td>
+        <td>JUEVES</td>
         <td>Tema</td>
         <td>Control</td>
         <td>SMOJ</td>
@@ -47,7 +47,7 @@
         <td></td>
         <td></td>
     </tr>
-    <tr>
+    <tr style="background-color:green">
         <td>4</td>
         <td>26-08</td>
         <td>27-08</td>
