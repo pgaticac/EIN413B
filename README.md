@@ -22,7 +22,7 @@
         <td></td>
         <td>UVA 2: Programas Secuenciales</td>
         <td>-</td>
-        <td>UVA2</td>
+        <td>UVA2 :heavy_check_mark:</td>
         <td>-</td>
     </tr>
     <tr>
@@ -32,9 +32,9 @@
         <td>14-08</td>
         <td></td>
         <td>UVA 3: Condicionales</td>
-        <td>C1</td>
-        <td>UVA3</td>
-        <td>TA1</td>
+        <td>C1 :heavy_check_mark:</td>
+        <td>UVA3 :heavy_check_mark:</td>
+        <td>TA1 :heavy_check_mark:</td>
     </tr>
     <tr>
         <td>3</td>
@@ -43,12 +43,12 @@
         <td>21-08</td>
         <td></td>
         <td>UVA 4: Ciclos</td>
-        <td>C2</td>
+        <td>C2 :heavy_check_mark:</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>▶️ 4</td>
+        <td>:round_pushpin: 4</td>
         <td>26-08</td>
         <td>27-08</td>
         <td>28-08</td>
