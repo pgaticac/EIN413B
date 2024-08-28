@@ -55,7 +55,7 @@
         <td></td>
         <td>UVA 4: Ciclos</td>
         <td></td>
-        <td>UVA4</td>
+        <td>🟡 UVA4</td>
         <td></td>
     </tr>
     <tr>
