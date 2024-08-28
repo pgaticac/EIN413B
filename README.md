@@ -16,9 +16,9 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>05-08-2024</td>
-        <td>06-08-2024</td>
-        <td>07-08-2024</td>
+        <td>05-08</td>
+        <td>06-08</td>
+        <td>07-08</td>
         <td></td>
         <td>UVA 2: Programas Secuenciales</td>
         <td>-</td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>12-08-2024</td>
-        <td>13-08-2024</td>
-        <td>14-08-2024</td>
+        <td>12-08</td>
+        <td>13-08</td>
+        <td>14-08</td>
         <td></td>
         <td>UVA 3: Condicionales</td>
         <td>C1</td>
@@ -38,9 +38,9 @@
     </tr>
     <tr>
         <td>3</td>
-        <td>19-08-2024</td>
-        <td>20-08-2024</td>
-        <td>21-08-2024</td>
+        <td>19-08</td>
+        <td>20-08</td>
+        <td>21-08</td>
         <td></td>
         <td>UVA 4: Ciclos</td>
         <td>C2</td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td>4</td>
-        <td>26-08-2024</td>
-        <td>27-08-2024</td>
-        <td>28-08-2024</td>
+        <td>26-08</td>
+        <td>27-08</td>
+        <td>28-08</td>
         <td></td>
         <td>UVA 4: Ciclos</td>
         <td></td>
@@ -60,9 +60,9 @@
     </tr>
     <tr>
         <td>5</td>
-        <td>02-09-2024</td>
-        <td>03-09-2024</td>
-        <td>04-09-2024</td>
+        <td>02-09</td>
+        <td>03-09</td>
+        <td>04-09</td>
         <td></td>
         <td>UVA 5: Strings</td>
         <td>C3</td>
@@ -71,9 +71,9 @@
     </tr>
     <tr>
         <td>6</td>
-        <td>09-09-2024</td>
-        <td>10-09-2024</td>
-        <td>11-09-2024</td>
+        <td>09-09</td>
+        <td>10-09</td>
+        <td>11-09</td>
         <td></td>
         <td>UVA 6: Funciones</td>
         <td>C4</td>
@@ -82,8 +82,8 @@
     </tr>
     <tr>
         <td>7</td>
-        <td>16-09-2024</td>
-        <td>17-09-2024</td>
+        <td>16-09</td>
+        <td>17-09</td>
         <td>18-09-2024</td>
         <td></td>
         <td>Suspensión de Fiestas Patrias</td>
