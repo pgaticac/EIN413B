@@ -48,24 +48,24 @@
         <td></td>
     </tr>
     <tr>
-        <td>:round_pushpin: 4</td>
+        <td>4</td>
         <td>26-08</td>
         <td>27-08</td>
         <td>28-08</td>
         <td></td>
         <td>UVA 4: Ciclos</td>
         <td></td>
-        <td>🟡 UVA4</td>
+        <td>UVA4 :heavy_check_mark: </td>
         <td></td>
     </tr>
     <tr>
-        <td>5</td>
+        <td>:round_pushpin: 5</td>
         <td>02-09</td>
         <td>03-09</td>
         <td>04-09</td>
         <td></td>
         <td>UVA 5: Strings</td>
-        <td>C3</td>
+        <td>🟡C3</td>
         <td>UVA5</td>
         <td>TA2</td>
     </tr>
