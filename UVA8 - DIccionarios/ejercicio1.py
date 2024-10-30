@@ -5,7 +5,7 @@ series = [
 ['Orange is the new black', 'USA', 8.5, ['comedia','drama']], 
 ['Dark', 'Alemania', 9.2, ['ficcion','drama']], 
 ['Sherlock','UK',9.2,['policial','drama','suspenso']], 
-['Merl ́ı','Espa ̃na',9.5,['drama']], 
+['Merl ́ı','Espa na',9.5,['drama']], 
 ['Whitecollar','USA',8.2,['comedia','drama','suspenso']], 
 ['Heroes','USA',7.7,['ficcion','accion']], 
 ['Mistfit','UK',8.4,['accion','drama','ficcion']] 

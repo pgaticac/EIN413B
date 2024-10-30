@@ -2,4 +2,5 @@
 523:Sophia Watson:EEUU:02-05-2019
 364:Alan Moore:EEUU:12-12-2018
 111:Karen Lee:EEUU:05-09-2019
-646:Nicolás Cabrera:Venezuela:01-01-2019
+646:Nicolas Cabrera:Venezuela:01-01-2019
+222:Bruno Diaz:EEUU:30-10-2024
