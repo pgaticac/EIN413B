@@ -65,9 +65,9 @@ def main():
     # ingesta = int(input("Ingrese la ingesta mínima para el día: "))
     # plantaciones = int(input("Ingrese el número de plantaciones a analizar: "))
     
-    plan = ""
-    ingesta = 0
-    plantaciones = 0
+    plan = "3D5;5I2;4D1;2D9;9I3"
+    ingesta = 11
+    plantaciones = 3
 
     plantacion_max = 0
     max_flores = 0
@@ -82,8 +82,8 @@ def main():
         
         if flores_comidas >= ingesta:
             print(f"Cumple! Come {flores_comidas}")
-            plantacion_max = i + 1
-            max_flores = flores_comidas
+            #Verificar si la cantidad de flores comidas es mayor que la máxima encontrada hasta ahora
+            # Si es así, actualizar la plantación máxima y la cantidad de flores
             if flores_comidas > max_flores:
                 plantacion_max = i + 1
                 max_flores = flores_comidas
